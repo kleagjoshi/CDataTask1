@@ -1,0 +1,14 @@
+After a review of /n software products and platforms I concluded that 
+we can use different products to complete te task.
+
+1. The right product which can make a HTTP request to: https://dummyjson.com/products
+can be : IPWorks
+		 IPWorks SSL 
+		 SSIS Components
+
+3.The right product which can parse JSON data can be :  IPWorks
+														IPWorks MQ
+														IPWorks IoT
+
+For question 2 and 4 I have used IPWorks product and .NET platform.
+
